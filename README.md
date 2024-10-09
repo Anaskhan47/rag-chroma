@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook implementing a simple RAG (Retrieval
 
 ## Contents
 
-- `rag_retriever.ipynb`: The main Jupyter Notebook file that contains the implementation and examples.
+- `retriever.ipynb`: The main Jupyter Notebook file that contains the implementation and examples.
 
 ## Requirements
 
@@ -27,8 +27,8 @@ pip install transformers torch faiss-cpu numpy pandas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-rag-retriever.git
-   cd simple-rag-retriever
+   git clone https://github.com/Anaskhan47/rag-chroma/
+   cd rag-chroma
    ```
 
 2. Open the notebook:
